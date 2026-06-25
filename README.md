@@ -13,6 +13,6 @@ icons/<category>/<n>.png        e.g. icons/food/1.png
 
 Categories: food, cafe, sight, hotel, transport, shopping, bar, nature, other. Numbers 1..40.
 
-CDN: `https://cdn.jsdelivr.net/gh/nekith78/gigaresearch-map-icons@main/icons/<category>/<n>.png`
+CDN: `https://cdn.jsdelivr.net/gh/nekith78/gigaresearch-map-icons@master/icons/<category>/<n>.png`
 
 Contains only generated marker graphics — no code, no secrets.
